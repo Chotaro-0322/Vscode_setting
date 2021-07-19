@@ -1,0 +1,8 @@
+[2021-07-20 00:05:30.105] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-07-20 00:05:32.692] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-07-20 00:05:36.489] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-07-20 00:05:36.492] [sharedprocess] [info] Skipping directory fc77ab58ff05f26877fac9d055256770.ja. Language pack still in use.
+[2021-07-20 00:05:37.082] [sharedprocess] [info] Extracted extension to /home/chohome/.vscode/extensions/.ms-python.python-2020.7.96456: ms-python.python
+[2021-07-20 00:05:37.082] [sharedprocess] [info] Renamed to /home/chohome/.vscode/extensions/ms-python.python-2020.7.96456
+[2021-07-20 00:05:37.086] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-07-20 00:05:37.401] [sharedprocess] [info] Extensions installed successfully: ms-python.python

@@ -1,8 +1,0 @@
-[2021-07-19 21:08:23.226] [renderer1] [info] Setting search error: XHR failed
-[2021-07-19 21:08:23.255] [renderer1] [info] Setting search error: XHR failed
-[2021-07-19 21:08:24.187] [renderer1] [info] Setting search error: XHR failed
-[2021-07-19 21:08:24.203] [renderer1] [info] Setting search error: XHR failed
-[2021-07-19 21:08:24.901] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
-[2021-07-19 21:08:24.902] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
-[2021-07-19 21:08:25.740] [renderer1] [info] Setting search error: XHR failed
-[2021-07-19 21:08:25.755] [renderer1] [info] Setting search error: XHR failed

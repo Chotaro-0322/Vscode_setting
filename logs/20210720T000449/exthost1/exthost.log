@@ -1,0 +1,141 @@
+[2021-07-20 00:05:02.266] [exthost] [info] extension host started
+[2021-07-20 00:05:02.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-20 00:05:02.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-20 00:05:02.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-20 00:05:02.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-20 00:05:02.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-20 00:05:02.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-07-20 00:05:02.599] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-07-20 00:05:02.599] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/vscodevim.vim-1.21.5/out/extension
+[2021-07-20 00:05:02.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-20 00:05:02.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-07-20 00:05:03.267] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-20 00:05:03.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-20 00:05:04.277] [exthost] [info] eager extensions activated
+[2021-07-20 00:05:04.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:05:04.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-20 00:05:04.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:05:04.639] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-20 00:05:04.669] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:05:04.669] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-20 00:05:05.253] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-07-20 00:05:05.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension
+[2021-07-20 00:05:06.929] [exthost] [error] Activating extension ms-toolsai.jupyter failed due to an error:
+[2021-07-20 00:05:06.929] [exthost] [error] TypeError: o.getConfiguration(...).get(...).find is not a function
+    at new m (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:685418)
+    at Object.t.resolveInstance (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:237116)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236322
+    at Object.t.resolve (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236585)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227686
+    at e._get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227452)
+    at e.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:226164)
+    at a.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:887437)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:269530
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:722103
+    at t.activate (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:721813)
+    at async Promise.all (index 0)
+[2021-07-20 00:05:06.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-20 00:05:06.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-20 00:05:39.745] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-20 00:05:40.756] [exthost] [info] exiting with code 0
+[2021-07-20 00:05:41.142] [exthost] [info] extension host started
+[2021-07-20 00:05:41.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-20 00:05:41.206] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-20 00:05:41.211] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-20 00:05:41.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/ms-python.python-2020.7.96456/out/client/extension
+[2021-07-20 00:05:41.373] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-07-20 00:05:41.373] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension
+[2021-07-20 00:05:41.428] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-20 00:05:41.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-20 00:05:41.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-20 00:05:41.429] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-07-20 00:05:41.449] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-07-20 00:05:41.450] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/vscodevim.vim-1.21.5/out/extension
+[2021-07-20 00:05:41.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-20 00:05:41.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-07-20 00:05:41.871] [exthost] [error] Activating extension ms-toolsai.jupyter failed due to an error:
+[2021-07-20 00:05:41.871] [exthost] [error] TypeError: o.getConfiguration(...).get(...).find is not a function
+    at new m (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:685418)
+    at Object.t.resolveInstance (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:237116)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236322
+    at Object.t.resolve (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236585)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227686
+    at e._get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227452)
+    at e.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:226164)
+    at a.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:887437)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:269530
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:722103
+    at t.activate (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:721813)
+    at async Promise.all (index 1)
+[2021-07-20 00:05:41.942] [exthost] [info] eager extensions activated
+[2021-07-20 00:05:41.955] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-20 00:05:41.955] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-20 00:05:42.001] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-20 00:05:42.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/ms-python.vscode-pylance-2021.5.2/dist/extension.bundle.js
+[2021-07-20 00:05:42.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:05:42.736] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-20 00:05:42.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:05:42.740] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-20 00:05:42.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:05:42.741] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-20 00:05:42.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-20 00:05:42.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-20 00:08:34.050] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-20 00:08:34.050] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/grunt/dist/main
+[2021-07-20 00:08:34.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-20 00:08:34.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/gulp/dist/main
+[2021-07-20 00:08:34.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-20 00:08:34.322] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/jake/dist/main
+[2021-07-20 00:08:34.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-20 00:08:34.345] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-07-20 00:08:34.438] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-20 00:08:34.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-07-20 00:28:08.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-07-20 00:28:08.931] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-07-20 00:59:05.627] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-20 00:59:06.637] [exthost] [info] exiting with code 0
+[2021-07-20 00:59:06.852] [exthost] [info] extension host started
+[2021-07-20 00:59:06.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-20 00:59:06.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-20 00:59:06.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-20 00:59:06.875] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-20 00:59:06.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-20 00:59:06.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-07-20 00:59:06.887] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-07-20 00:59:06.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/vscodevim.vim-1.21.5/out/extension
+[2021-07-20 00:59:06.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-20 00:59:06.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-07-20 00:59:06.971] [exthost] [info] eager extensions activated
+[2021-07-20 00:59:06.972] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-20 00:59:06.972] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-20 00:59:07.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:59:07.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-20 00:59:07.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:59:07.017] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-20 00:59:07.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-20 00:59:07.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-20 00:59:07.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-20 00:59:07.031] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-20 00:59:21.961] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-20 00:59:21.961] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/ms-python.python-2020.7.96456/out/client/extension
+[2021-07-20 00:59:22.171] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-07-20 00:59:22.172] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension
+[2021-07-20 00:59:22.301] [exthost] [error] Activating extension ms-toolsai.jupyter failed due to an error:
+[2021-07-20 00:59:22.301] [exthost] [error] TypeError: o.getConfiguration(...).get(...).find is not a function
+    at new m (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:685418)
+    at Object.t.resolveInstance (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:237116)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236322
+    at Object.t.resolve (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236585)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227686
+    at e._get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227452)
+    at e.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:226164)
+    at a.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:887437)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:269530
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:722103
+    at t.activate (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:721813)
+    at async Promise.all (index 1)
+[2021-07-20 00:59:22.566] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-20 00:59:22.566] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chohome/.vscode/extensions/ms-python.vscode-pylance-2021.5.2/dist/extension.bundle.js

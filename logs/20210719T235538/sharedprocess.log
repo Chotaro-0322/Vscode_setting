@@ -1,0 +1,6 @@
+[2021-07-19 23:55:42.650] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.8.1013163132
+[2021-07-19 23:55:42.653] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/chohome/.vscode/extensions/ms-python.vscode-pylance-2021.7.4
+[2021-07-19 23:55:42.654] [sharedprocess] [info] Deleted from disk ms-python.python /home/chohome/.vscode/extensions/ms-python.python-2020.12.424452561
+[2021-07-19 23:55:42.654] [sharedprocess] [info] Deleted from disk ms-python.python /home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595
+[2021-07-19 23:56:21.826] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-07-19 23:56:21.830] [sharedprocess] [info] Skipping directory fc77ab58ff05f26877fac9d055256770.ja. Language pack still in use.

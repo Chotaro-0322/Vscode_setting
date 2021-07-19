@@ -1,0 +1,1087 @@
+[2021-07-19 23:36:15.610] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at Object.fromJSON (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14400)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58262)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58105
+    at Array.map (<anonymous>)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58086)
+    at n._deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57991)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57925)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:67633)
+    at si.doCreateGridControlWithState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14283)
+    at si.doCreateGridControlWithPreviousState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13869)
+    at si.doCreateGridControl (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13330)
+    at si.createContentArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:11677)
+    at si.create (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:8175)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:92020
+    at Array.forEach (<anonymous>)
+    at O.renderWorkbench (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:91927)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88916
+    at C.invokeFunction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:614:20943)
+    at O.startup (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88547)
+    at J.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2658:6772)
+    at async file:///usr/share/code/resources/app/out/bootstrap-window.js:1:2555
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.onEditorsRestored (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72238)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71441
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:36:15.610] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:36:15.690] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-19 23:36:16.992] [renderer1] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-19 23:36:17.186] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 23:36:17.187] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 23:37:24.092] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:37:24.259] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:37:24.261] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:37:24.261] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:37:24.262] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:37:24.262] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:01.874] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chohome/メカトロ/soket_tansport/.vscode'
+[2021-07-19 23:38:01.874] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:01.874] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:01.875] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at j.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:112776)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:109171
+[2021-07-19 23:38:01.991] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:38:01.992] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:01.992] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:01.992] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:01.992] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:02.337] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-19 23:38:03.505] [renderer1] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-19 23:38:04.760] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:04.760] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:04.765] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87482
+    at F.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2547:22628)
+    at F.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87453)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:22847
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at K._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at K.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:43780)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:38:04.835] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async F.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2547:22622)
+    at async F.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87442)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:22822
+[2021-07-19 23:38:04.835] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:04.835] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:04.836] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:04.836] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:06.313] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:06.313] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:06.315] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87482
+    at F.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2547:22628)
+    at F.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87453)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:22847
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at K._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at K.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:43780)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:38:06.367] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async F.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2547:22622)
+    at async F.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87442)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:22822
+[2021-07-19 23:38:06.367] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:06.367] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:06.368] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:06.368] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chohome/メカトロ/soket_tansport/.vscode'
+[2021-07-19 23:38:11.240] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at Object.fromJSON (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14400)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58262)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58105
+    at Array.map (<anonymous>)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58086)
+    at n._deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57991)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57925)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:67633)
+    at si.doCreateGridControlWithState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14283)
+    at si.doCreateGridControlWithPreviousState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13869)
+    at si.doCreateGridControl (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13330)
+    at si.createContentArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:11677)
+    at si.create (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:8175)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:92020
+    at Array.forEach (<anonymous>)
+    at O.renderWorkbench (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:91927)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88916
+    at C.invokeFunction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:614:20943)
+    at O.startup (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88547)
+    at J.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2658:6772)
+    at async file:///usr/share/code/resources/app/out/bootstrap-window.js:1:2555
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.onEditorsRestored (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72238)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71441
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:11.240] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:11.307] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-19 23:38:12.615] [renderer1] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-19 23:38:18.420] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:38:18.463] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:38:18.463] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:18.464] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:18.464] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:18.464] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:20.447] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:38:20.482] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:38:20.483] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:20.483] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:20.483] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:20.484] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:24.044] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:38:24.076] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:38:24.076] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:24.077] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:24.077] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:24.078] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:30.027] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._deltaExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:12507)
+    at async L._handleDeltaExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:11734)
+[2021-07-19 23:38:33.794] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:38:33.824] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:38:33.825] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:33.825] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:33.826] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:33.826] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:41.814] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chohome/メカトロ/soket_tansport/.vscode'
+[2021-07-19 23:38:43.314] [renderer1] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-19 23:38:45.779] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:45.779] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:45.805] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:45.805] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:46.817] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:46.818] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:46.825] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87482
+    at F.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2547:22628)
+    at F.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87453)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:22847
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at K._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at K.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:162:43780)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:38:46.963] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async F.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2547:22622)
+    at async F.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:87442)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2546:22822
+[2021-07-19 23:38:46.964] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:46.964] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:38:46.965] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:38:46.965] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:40:37.578] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:40:37.620] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:40:37.621] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:40:37.621] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:40:37.622] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:40:37.622] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:40:38.739] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:40:38.767] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:40:38.768] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:40:38.768] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:40:38.768] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:40:38.768] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chohome/メカトロ/soket_tansport/.vscode'
+[2021-07-19 23:41:10.328] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at Object.fromJSON (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14400)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58262)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58105
+    at Array.map (<anonymous>)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58086)
+    at n._deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57991)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57925)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:67633)
+    at si.doCreateGridControlWithState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14283)
+    at si.doCreateGridControlWithPreviousState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13869)
+    at si.doCreateGridControl (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13330)
+    at si.createContentArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:11677)
+    at si.create (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:8175)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:92020
+    at Array.forEach (<anonymous>)
+    at O.renderWorkbench (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:91927)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88916
+    at C.invokeFunction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:614:20943)
+    at O.startup (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88547)
+    at J.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2658:6772)
+    at async file:///usr/share/code/resources/app/out/bootstrap-window.js:1:2555
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.onEditorsRestored (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72238)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71441
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:41:10.328] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:41:10.518] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-19 23:41:11.863] [renderer1] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-19 23:42:30.012] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at Jn.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1571:10143)
+    at Y.openExtension (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:37602)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2516:19473
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:59288
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58784
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at W._open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61695)
+    at W.onPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:61522)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:60088
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at x.onViewPointer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:124:39778)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58925
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:58618
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+[2021-07-19 23:42:30.161] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-19 23:42:30.162] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:42:30.162] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:42:30.163] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:42:30.163] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:42:49.471] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chohome/メカトロ/soket_tansport/.vscode'
+[2021-07-19 23:42:49.471] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at Object.fromJSON (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14400)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58262)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58105
+    at Array.map (<anonymous>)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58086)
+    at n._deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57991)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57925)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:67633)
+    at si.doCreateGridControlWithState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14283)
+    at si.doCreateGridControlWithPreviousState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13869)
+    at si.doCreateGridControl (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13330)
+    at si.createContentArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:11677)
+    at si.create (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:8175)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:92020
+    at Array.forEach (<anonymous>)
+    at O.renderWorkbench (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:91927)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88916
+    at C.invokeFunction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:614:20943)
+    at O.startup (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88547)
+    at J.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2658:6772)
+    at async file:///usr/share/code/resources/app/out/bootstrap-window.js:1:2555
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:42:49.472] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.onEditorsRestored (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72238)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71441
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:42:49.472] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:42:49.708] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-19 23:42:51.057] [renderer1] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-19 23:45:45.969] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at F.openSettings2 (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1867:4122)
+    at F.openSettings (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1867:3796)
+    at Object.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2636:17746)
+    at handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:64890)
+    at C.invokeFunction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:614:20943)
+    at C._tryExecuteCommand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:3492)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:3241
+    at async EventEmitter.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2653:73649)
+[2021-07-19 23:45:46.212] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+    at async EventEmitter.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2653:73649)
+[2021-07-19 23:45:46.212] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:45:46.212] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:45:46.213] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:45:46.213] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:46:35.034] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at ee (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:15157)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:15335)
+[2021-07-19 23:46:35.093] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+[2021-07-19 23:46:35.094] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:46:35.094] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:46:35.095] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:46:35.095] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:47:35.824] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at ee (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:15157)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:15335)
+[2021-07-19 23:47:35.914] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+[2021-07-19 23:47:35.915] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:47:35.915] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:47:35.915] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:47:35.915] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:06.666] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:06.666] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:06.702] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:06.702] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at Object.fromJSON (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14400)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58262)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58105
+    at Array.map (<anonymous>)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58086)
+    at n._deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57991)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57925)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:67633)
+    at si.doCreateGridControlWithState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14283)
+    at si.doCreateGridControlWithPreviousState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13869)
+    at si.doCreateGridControl (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13330)
+    at si.createContentArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:11677)
+    at si.create (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:8175)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:92020
+    at Array.forEach (<anonymous>)
+    at O.renderWorkbench (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:91927)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88916
+    at C.invokeFunction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:614:20943)
+    at O.startup (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88547)
+    at J.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2658:6772)
+    at async file:///usr/share/code/resources/app/out/bootstrap-window.js:1:2555
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.onEditorsRestored (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72238)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71441
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:19.583] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:19.661] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-19 23:50:20.823] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:20.824] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:20.956] [renderer1] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-19 23:50:21.172] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 23:50:21.173] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 23:50:26.349] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:26.349] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:30.717] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:30.717] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:34.373] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:34.373] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:35.835] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:35.835] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:35.880] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:35.880] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:37.942] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:37.943] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:38.022] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:38.022] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:40.604] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:40.604] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:44.228] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:44.228] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:51.960] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:51.961] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:50:57.428] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:50:57.428] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:52:13.085] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at ri.openAnything (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2085:19777)
+    at Object.accept (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2085:19061)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:623:11452
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:560:40622)
+[2021-07-19 23:52:13.190] [renderer1] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+    at async ri.openAnything (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2085:19752)
+[2021-07-19 23:52:13.191] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:52:13.191] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-19 23:52:13.193] [renderer1] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-19 23:52:13.193] [renderer1] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function

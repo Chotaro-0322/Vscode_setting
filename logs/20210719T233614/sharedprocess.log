@@ -1,0 +1,30 @@
+[2021-07-19 23:36:57.880] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-07-19 23:36:57.883] [sharedprocess] [info] Skipping directory fc77ab58ff05f26877fac9d055256770.ja. Language pack still in use.
+[2021-07-19 23:37:30.385] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-07-19 23:37:31.522] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-07-19 23:37:32.716] [sharedprocess] [info] Extracted extension to /home/chohome/.vscode/extensions/.ms-python.python-2021.2.633441544: ms-python.python
+[2021-07-19 23:37:32.717] [sharedprocess] [info] Renamed to /home/chohome/.vscode/extensions/ms-python.python-2021.2.633441544
+[2021-07-19 23:37:32.718] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-07-19 23:37:32.905] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-07-19 23:38:27.924] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-07-19 23:38:29.329] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2021-07-19 23:38:29.835] [sharedprocess] [info] Extracted extension to /home/chohome/.vscode/extensions/.ms-toolsai.jupyter-2021.2.603412351: ms-toolsai.jupyter
+[2021-07-19 23:38:29.836] [sharedprocess] [info] Renamed to /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351
+[2021-07-19 23:38:29.837] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-07-19 23:38:29.930] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-07-19 23:38:37.037] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-07-19 23:38:38.325] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-07-19 23:38:39.822] [sharedprocess] [info] Extracted extension to /home/chohome/.vscode/extensions/.ms-python.vscode-pylance-2021.5.2: ms-python.vscode-pylance
+[2021-07-19 23:38:39.822] [sharedprocess] [info] Renamed to /home/chohome/.vscode/extensions/ms-python.vscode-pylance-2021.5.2
+[2021-07-19 23:38:39.823] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-07-19 23:38:40.015] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-07-19 23:40:59.192] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-07-19 23:41:00.630] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-07-19 23:41:01.576] [sharedprocess] [info] Extracted extension to /home/chohome/.vscode/extensions/.ms-python.python-2020.12.424452561: ms-python.python
+[2021-07-19 23:41:01.576] [sharedprocess] [info] Renamed to /home/chohome/.vscode/extensions/ms-python.python-2020.12.424452561
+[2021-07-19 23:41:01.578] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-07-19 23:41:01.760] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-07-19 23:42:46.278] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-07-19 23:42:47.153] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-07-19 23:42:47.225] [sharedprocess] [info] Removed the extension from uninstalled list: ms-python.python
+[2021-07-19 23:42:47.374] [sharedprocess] [info] Extensions installed successfully: ms-python.python

@@ -1,0 +1,484 @@
+[2021-07-20 01:01:53.899] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78368)
+    at j.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:112776)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:109171
+[2021-07-20 01:01:53.990] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72741
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15818
+    at async Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14306)
+    at async L.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78360)
+[2021-07-20 01:01:53.990] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:01:53.990] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:01:53.991] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:01:53.991] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:01:54.141] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-20 01:01:55.348] [renderer3] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-20 01:02:03.769] [renderer3] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chohome/メカトロ/soket_tansport/.vscode'
+[2021-07-20 01:02:03.769] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at Object.fromJSON (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14400)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58262)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58105
+    at Array.map (<anonymous>)
+    at n._deserializeNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:58086)
+    at n._deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57991)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:57925)
+    at Function.deserialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:67633)
+    at si.doCreateGridControlWithState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:14283)
+    at si.doCreateGridControlWithPreviousState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13869)
+    at si.doCreateGridControl (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:13330)
+    at si.createContentArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:11677)
+    at si.create (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:8175)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:92020
+    at Array.forEach (<anonymous>)
+    at O.renderWorkbench (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:91927)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88916
+    at C.invokeFunction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:614:20943)
+    at O.startup (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:88547)
+    at J.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2658:6772)
+    at async file:///usr/share/code/resources/app/out/bootstrap-window.js:1:2555
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.onEditorsRestored (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72238)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71441
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:03.769] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:02:03.852] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83366
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at C.update (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:17312)
+    at u._handler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1604:16851)
+    at u._handle (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5401)
+    at u.acceptUsers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1534:5305)
+    at Function._handleExtensionPoint (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:20392)
+    at L._doHandleExtensionPoints (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:19511)
+    at L._startLocalExtensionHost (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:8340)
+    at L._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2659:7502)
+    at async L._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1734:15238)
+[2021-07-20 01:02:05.429] [renderer3] [error] ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/chohome/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-07-20 01:02:35.454] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:7858
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:7584
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10209
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:5912
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at He (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:66:18271)
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+    at h.setSelectionRange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:141:2254)
+    at k.writeToTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:97370)
+    at v._setAndWriteTextAreaState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15975)
+    at v.writeScreenReaderContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:16105)
+    at v._setHasFocus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15805)
+    at v.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15210)
+    at n.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:114083)
+    at K.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:120834)
+    at Object.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:116249)
+    at w (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:14594)
+    at u._onMouseDown (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:14627)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:12446
+    at HTMLDivElement.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:78608)
+[2021-07-20 01:02:35.462] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:35.463] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:02:35.485] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:02:35.485] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:25:57.138] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:7858
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:7584
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10209
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:5912
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at He (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:66:18271)
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+    at h.setSelectionRange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:141:2254)
+    at k.writeToTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:97370)
+    at v._setAndWriteTextAreaState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15975)
+    at v.writeScreenReaderContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:16105)
+    at v._setHasFocus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15805)
+    at v.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15210)
+    at n.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:114083)
+    at K.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:120834)
+    at Object.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:116249)
+    at w (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:14594)
+    at u._onMouseDown (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:14627)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:12446
+    at HTMLDivElement.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:78608)
+[2021-07-20 01:25:57.148] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:25:57.148] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:25:57.179] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:25:57.180] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:26:06.717] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at Se.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:26:06.739] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:7858
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:7584
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10209
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:5912
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at He (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:66:18271)
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+    at h.setSelectionRange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:141:2254)
+    at k.writeToTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:97370)
+    at v._setAndWriteTextAreaState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15975)
+    at v.writeScreenReaderContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:16105)
+    at v._setHasFocus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15805)
+    at v.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15210)
+    at n.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:114083)
+    at K.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:120834)
+    at tn.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:13047)
+    at n.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:73283)
+    at u.doSetInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10416)
+    at u.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:9093)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15732
+    at Ti.doShowEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15913)
+    at Ti.doOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15499)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14317)
+    at Se.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:26:06.740] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:26:06.741] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:26:06.755] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:26:06.755] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:26:25.032] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at Ee.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:26:25.048] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:7858
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:7584
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10209
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:5912
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at He (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:66:18271)
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+    at h.setSelectionRange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:141:2254)
+    at k.writeToTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:97370)
+    at v._setAndWriteTextAreaState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15975)
+    at v.writeScreenReaderContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:16105)
+    at v._setHasFocus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15805)
+    at v.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15210)
+    at n.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:114083)
+    at K.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:120834)
+    at tn.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:13047)
+    at n.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:73283)
+    at u.doSetInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10416)
+    at u.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:9093)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15732
+    at Ti.doShowEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15913)
+    at Ti.doOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15499)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14317)
+    at Ee.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:26:25.050] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:26:25.051] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:26:25.066] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:26:25.066] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:26:54.388] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at Se.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:26:54.404] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:7858
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:7584
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10209
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:5912
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at He (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:66:18271)
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+    at h.setSelectionRange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:141:2254)
+    at k.writeToTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:97370)
+    at v._setAndWriteTextAreaState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15975)
+    at v.writeScreenReaderContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:16105)
+    at v._setHasFocus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15805)
+    at v.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15210)
+    at n.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:114083)
+    at K.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:120834)
+    at tn.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:13047)
+    at n.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:73283)
+    at u.doSetInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10416)
+    at u.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:9093)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15732
+    at Ti.doShowEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15913)
+    at Ti.doOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15499)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14317)
+    at Se.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:26:54.406] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:26:54.406] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:26:54.423] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:26:54.423] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:27:12.311] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at M.onResourceEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91291)
+    at M.onEditorOpening (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:91192)
+    at Object.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:90188)
+    at L.onGroupWillOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:78082)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72909
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14207)
+    at Ee.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:27:12.327] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:7858
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:7584
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10209
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:5912
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at He (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:66:18271)
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+    at h.setSelectionRange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:141:2254)
+    at k.writeToTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:97370)
+    at v._setAndWriteTextAreaState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15975)
+    at v.writeScreenReaderContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:16105)
+    at v._setHasFocus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15805)
+    at v.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15210)
+    at n.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:114083)
+    at K.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:120834)
+    at tn.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:13047)
+    at n.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:73283)
+    at u.doSetInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10416)
+    at u.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:9093)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15732
+    at Ti.doShowEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15913)
+    at Ti.doOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15499)
+    at Ti.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:14317)
+    at Ee.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:36856)
+    at Object.triggerAndDisposeAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:51221)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:50917
+[2021-07-20 01:27:12.328] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:27:12.329] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:27:12.343] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:27:12.343] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:27:56.061] [renderer3] [error] F.filter is not a function: TypeError: F.filter is not a function
+    at R.getUserConfiguredCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84530)
+    at R.getAllCustomEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:84704)
+    at R.updateContexts (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:88081)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:83581
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at L.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72631)
+    at L.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:72428)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:71517
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at si.doSetGroupActive (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:8343)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2284:7858
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:7584
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10209
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:5912
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at He (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:66:18271)
+    at u.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:1836)
+    at HTMLDivElement.y (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:9035)
+    at h.setSelectionRange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:141:2254)
+    at k.writeToTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:97370)
+    at v._setAndWriteTextAreaState (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15975)
+    at v.writeScreenReaderContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:16105)
+    at v._setHasFocus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15805)
+    at v.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:140:15210)
+    at n.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:114083)
+    at K.focus (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:120834)
+    at Object.focusTextArea (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:656:116249)
+    at w (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:14594)
+    at u._onMouseDown (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:14627)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:648:12446
+    at HTMLDivElement.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:138:78608)
+[2021-07-20 01:27:56.062] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:27:56.062] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:27:56.073] [renderer3] [error] Unexpected error getting editor overrides: TypeError: F.filter is not a function
+[2021-07-20 01:27:56.074] [renderer3] [error] Unexpected error getting editor overrides: TypeError: ue.filter is not a function
+[2021-07-20 01:28:52.696] [renderer3] [error] spawn git ENOENT: Error: spawn git ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-07-20 01:28:53.696] [renderer3] [error] write EPIPE: Error: write EPIPE
+    at afterWriteDispatched (internal/stream_base_commons.js:154:25)
+    at writeGeneric (internal/stream_base_commons.js:145:3)
+    at Socket._writeGeneric (net.js:786:11)
+    at Socket._write (net.js:798:8)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Socket.Writable.write (_stream_writable.js:318:11)
+    at Socket.Writable.end (_stream_writable.js:585:10)
+    at Socket.end (net.js:590:31)
+    at /usr/share/code/resources/app/extensions/git/dist/main.js:1:62827
+    at new Promise (<anonymous>)
+    at /usr/share/code/resources/app/extensions/git/dist/main.js:1:62628
+    at D.retryRun (/usr/share/code/resources/app/extensions/git/dist/main.js:1:64191)
+    at D.run (/usr/share/code/resources/app/extensions/git/dist/main.js:1:63889)
+    at D.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:1:62606)
+    at checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:10:471682)
+    at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:1:24524)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)

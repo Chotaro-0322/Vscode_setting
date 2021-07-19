@@ -1,8 +1,0 @@
-[2021-07-19 21:08:32.246] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
-[2021-07-19 21:08:32.247] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210719T173914'
-[2021-07-19 21:08:33.448] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
-[2021-07-19 21:08:33.693] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /home/chohome/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ja-1.58.8
-[2021-07-19 21:08:33.843] [sharedprocess] [info] Extracted extension to /home/chohome/.vscode/extensions/.fd7d722a-e1f0-46af-83d7-ef275651f0f9: ms-ceintl.vscode-language-pack-ja
-[2021-07-19 21:08:34.083] [sharedprocess] [info] Renamed to /home/chohome/.vscode/extensions/ms-ceintl.vscode-language-pack-ja-1.58.8
-[2021-07-19 21:08:34.084] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-ja
-[2021-07-19 21:08:34.268] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-ja

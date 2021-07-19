@@ -23,15 +23,28 @@
         { 
         "before": ["<space>", "w", "/"],
         "commands": ["workbench.action.splitEditor"]
-        }
+        },
         { 
         "before": ["<space>", "w", "-"],
         "commands": ["workbench.action.splitEditorOrthogonal"]
-        }
+        },
         { 
         "before": ["<space>", "w", "d"],
         "commands": ["workbench.action.closeActiveEditor"]
+        },
+        { 
+        "before": ["<space>", "f", "f"],
+        "commands": ["workbench.action.quickOpen"]
         }
     ],
-    "vim.hlsearch": true
+    "vim.hlsearch": true,
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv"
+    ],
+    "git.confirmSync": false,
+    "files.exclude": {
+        "**/.git": false
+    }
 }

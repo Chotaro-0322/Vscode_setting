@@ -2,6 +2,8 @@
     "telemetry.machineId": "1a9840219dd6ac47e000319e789eebd8bc675ebe821f44716318a082bac194fe",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/chohome/%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD/soket_tansport",
+            "file:///home/chohome/%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD/socket_transport_apply",
             "file:///home/chohome"
         ],
         "files2": []
@@ -40,7 +42,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "閉じたエディターを再度開く(&&R)"
+                                    "label": "閉じたエディターを再度開く(&&R)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -49,7 +52,29 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/chohome",
+                                        "fsPath": "/home/chohome/メカトロ/soket_tansport",
+                                        "external": "file:///home/chohome/%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD/soket_tansport",
+                                        "path": "/home/chohome/メカトロ/soket_tansport",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/メカトロ/soket_tansport"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chohome/%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD/socket_transport_apply",
+                                        "path": "/home/chohome/メカトロ/socket_transport_apply",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/メカトロ/socket_transport_apply"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/chohome",
                                         "path": "/home/chohome",
                                         "scheme": "file"
@@ -397,8 +422,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "パネルを表示(&&P)",
-                                    "checked": true
+                                    "label": "パネルを表示(&&P)"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -890,7 +914,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1479,17 +1504,40 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/chohome",
-            "backupPath": "/home/chohome/.config/Code/Backups/b57c369ce260b2bf423a8d5689887428",
+            "folder": "file:///home/chohome/%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD/soket_tansport",
+            "backupPath": "/home/chohome/.config/Code/Backups/33f3299d9067946f4d246aadd3e5d227",
             "uiState": {
                 "mode": 1,
-                "x": 13,
-                "y": 470,
-                "width": 1576,
-                "height": 907
+                "x": -72,
+                "y": 675,
+                "width": 2078,
+                "height": 768
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///home/chohome/%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD/socket_transport_apply",
+                "backupPath": "/home/chohome/.config/Code/Backups/470984a2c1b216473549a9c4842a8cd4",
+                "uiState": {
+                    "mode": 0,
+                    "x": 2124,
+                    "y": 87,
+                    "width": 1454,
+                    "height": 840
+                }
+            },
+            {
+                "folder": "file:///home/chohome/%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD/soket_tansport",
+                "backupPath": "/home/chohome/.config/Code/Backups/33f3299d9067946f4d246aadd3e5d227",
+                "uiState": {
+                    "mode": 1,
+                    "x": -72,
+                    "y": 675,
+                    "width": 2078,
+                    "height": 768
+                }
+            }
+        ]
     },
-    "pickerWorkingDir": "/home"
+    "pickerWorkingDir": "/home/chohome/メカトロ"
 }

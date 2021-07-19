@@ -1,6 +1,0 @@
-[2021-07-19 18:27:15.081] [renderer1] [error] command 'type' already exists: Error: command 'type' already exists
-    at S.registerCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:119253)
-    at Object.registerCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:20920)
-    at overrideCommand (/home/itolab-chotaro/.vscode/extensions/vscodevim.vim-1.21.5/extensionBase.ts:569:38)
-    at Object.t.activate (/home/itolab-chotaro/.vscode/extensions/vscodevim.vim-1.21.5/extensionBase.ts:362:3)
-[2021-07-19 18:27:15.081] [renderer1] [error] ENOENT: no such file or directory, open '/home/itolab-chotaro/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/itolab-chotaro/.config/Code/User/globalStorage/vscodevim.vim/.registers'

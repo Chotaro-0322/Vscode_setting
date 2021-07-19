@@ -1,0 +1,14 @@
+Error 2021-07-19 23:59:53: extension activation failed TypeError: o.getConfiguration(...).get(...).find is not a function
+    at new m (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:685418)
+    at Object.t.resolveInstance (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:237116)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236322
+    at Object.t.resolve (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:236585)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227686
+    at e._get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:227452)
+    at e.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:226164)
+    at a.get (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:887437)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:269530
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:722103
+    at t.activate (/home/chohome/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:32:721813)
+    at async Promise.all (index 0)
