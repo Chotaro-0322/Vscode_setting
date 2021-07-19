@@ -1,0 +1,24 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+Python interpreter path: ./.pyenv/versions/3.7.2/envs/dl/bin/python
+Error 2021-07-19 21:32:19: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): ファイル '/home/chohome/.vscode/settings.json' を読み取れません (Error: 存在しないファイル '/home/chohome/.vscode/settings.json' を解決できません)
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:167834)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+Error 2021-07-19 21:32:19: readdir() failed for "/home/chohome/.config/configstore" (Error: EACCES: permission denied, scandir '/home/chohome/.config/configstore')
+> conda --version
+Error 2021-07-19 21:41:24: Error while running worker[Worker 1]. undefined
+Error 2021-07-19 21:41:24: Error while running worker[Worker 2]. undefined

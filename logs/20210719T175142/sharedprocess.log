@@ -1,0 +1,6 @@
+[2021-07-19 17:51:53.940] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-19 17:51:53.941] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210719T164030'
+[2021-07-19 17:52:13.938] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-19 17:52:13.938] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-19 17:52:23.945] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-19 17:52:23.949] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder fc77ab58ff05f26877fac9d055256770.ja. Language pack still in use.

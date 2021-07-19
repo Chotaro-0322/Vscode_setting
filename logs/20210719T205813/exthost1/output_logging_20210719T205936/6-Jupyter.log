@@ -1,0 +1,17 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModulecf'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-07-19 20:59:36: ZMQ install verified.
+Info 2021-07-19 20:59:36: id is d137f54a-bff1-48ff-af12-57e7ceef1c8e
+Info 2021-07-19 20:59:45: Shutting down notebooks for 2935d3fa-9365-416b-9d37-e68dc2d3af8d
+Info 2021-07-19 20:59:45: Disposing HostJupyterExecution 42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Disposing super HostJupyterExecution 42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Disposing HostJupyterExecution 42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Finished disposing HostJupyterExecution  42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Disposing HostJupyterExecution 42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Finished disposing HostJupyterExecution  42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Getting live share API during dispose HostJupyterExecution 42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Detaching HostJupyterExecution 42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Cleaning up server cache 42bc2ca8-0f64-415d-994c-eaedadae1b0d
+Info 2021-07-19 20:59:45: Finished disposing HostJupyterExecution  42bc2ca8-0f64-415d-994c-eaedadae1b0d

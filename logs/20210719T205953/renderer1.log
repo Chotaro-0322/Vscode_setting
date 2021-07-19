@@ -1,0 +1,8 @@
+[2021-07-19 20:59:56.864] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 20:59:56.865] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 21:01:36.781] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:01:36.825] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:08:09.904] [renderer1] [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage
+[2021-07-19 21:08:11.897] [renderer1] [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage
+[2021-07-19 21:08:12.280] [renderer1] [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage
+[2021-07-19 21:08:12.682] [renderer1] [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

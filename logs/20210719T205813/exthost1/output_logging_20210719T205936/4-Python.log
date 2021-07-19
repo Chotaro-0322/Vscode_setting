@@ -1,0 +1,48 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+Error 2021-07-19 20:59:36: readdir() failed for "/home/chohome/.config/configstore" (Error: EACCES: permission denied, scandir '/home/chohome/.config/configstore')
+Error 2021-07-19 20:59:36: readdir() failed for "/home/chohome/.config/configstore" (Error: EACCES: permission denied, scandir '/home/chohome/.config/configstore')
+Python interpreter path: ./.pyenv/versions/dl/bin/python
+Error 2021-07-19 20:59:37: readdir() failed for "/home/chohome/.config/configstore" (Error: EACCES: permission denied, scandir '/home/chohome/.config/configstore')
+Error 2021-07-19 20:59:37: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/chohome/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/chohome/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:167834)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/home/chohome/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+Starting Jedi Python language engine.
+Error 2021-07-19 20:59:37: readdir() failed for "/home/chohome/.config/configstore" (Error: EACCES: permission denied, scandir '/home/chohome/.config/configstore')
+Python interpreter path: ./.pyenv/shims/python
+> conda --version
+Error 2021-07-19 20:59:37: readdir() failed for "/home/chohome/.config/configstore" (Error: EACCES: permission denied, scandir '/home/chohome/.config/configstore')
+> ~/.pyenv/shims/python -c "import sys;print(sys.prefix)"
+cwd: ~/
+> ~/.pyenv/shims/python -c "import sys;print(sys.prefix)"
+cwd: ~/
+> ~/.pyenv/shims/python -c "import sys;print(sys.executable)"
+cwd: ~/
+> ~/.pyenv/shims/python -c "import sys;print(sys.executable)"
+cwd: ~/
+> ~/.pyenv/shims/python -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/
+> ~/.pyenv/shims/python -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/
+> ~/.pyenv/shims/python site --user-site
+cwd: ~/
+> ~/.pyenv/shims/python site --user-site
+cwd: ~/
+> ~/.pyenv/shims/python ~/.vscode/extensions/ms-python.python-2021.6.944021595/pythonFiles/completion.py
+> ~/.pyenv/shims/python ~/.vscode/extensions/ms-python.python-2021.6.944021595/pythonFiles/completion.py
+Error 2021-07-19 20:59:45: Error while running worker[Worker 2]. undefined
+Error 2021-07-19 20:59:45: Error while running worker[Worker 1]. undefined
+Error 2021-07-19 20:59:45: Failed to prompt to launch TensorBoard session based on preexisting tfevent files in workspace: Canceled: Canceled

@@ -1,0 +1,10 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+Info 2021-07-19 18:02:30: ZMQ install verified.
+Info 2021-07-19 18:02:30: id is 4053575b-247f-466e-94b1-87e713a3ad18
+Info 2021-07-19 18:27:13: Process Execution: > ~/.pyenv/versions/dl/bin/python -m pip list
+> ~/.pyenv/versions/dl/bin/python -m pip list

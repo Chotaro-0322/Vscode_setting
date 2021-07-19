@@ -1,0 +1,9 @@
+[2021-07-19 21:44:51.263] [sharedprocess] [info] Deleted from disk asvetliakov.vscode-neovim /home/chohome/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82
+[2021-07-19 21:45:29.932] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-07-19 21:45:29.932] [sharedprocess] [info] Skipping directory fc77ab58ff05f26877fac9d055256770.ja. Language pack still in use.
+[2021-07-19 21:51:13.433] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-07-19 21:51:13.438] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-07-19 21:51:13.512] [sharedprocess] [info] Extracted extension to /home/chohome/.vscode/extensions/.vscodevim.vim-1.21.5: vscodevim.vim
+[2021-07-19 21:51:13.512] [sharedprocess] [info] Renamed to /home/chohome/.vscode/extensions/vscodevim.vim-1.21.5
+[2021-07-19 21:51:13.513] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-07-19 21:51:13.576] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim

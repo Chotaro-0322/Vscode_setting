@@ -1,0 +1,33 @@
+[2021-07-19 21:08:37.644] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:08:37.698] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:08:38.895] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 21:08:38.896] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 21:08:39.142] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:08:39.162] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:08:40.414] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:08:40.446] [renderer1] [info] Setting search error: XHR failed
+[2021-07-19 21:17:09.442] [renderer1] [error] Contributed command 'type' does not exist.: Error: Contributed command 'type' does not exist.
+	at S.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:121071)
+	at u._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:12743)
+	at u._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:12435)
+	at u._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:11097)
+	at u._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:9900)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:8004
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1726)
+	at h.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15777)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:29793
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1726)
+	at h.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15777)
+	at r._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:21035)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:17921
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1726)
+	at c.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:13138)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12486
+	at Socket._ (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:13107)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-19 21:32:20.341] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-07-19 21:32:20.342] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
